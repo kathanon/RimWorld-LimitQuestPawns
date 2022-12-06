@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{ED0A4660-E9DE-432B-A45A-90FB5576C9F4}") = "LimitQuestPawns", "Source\LimitQuestPawns.csproj", "{71D373D8-A0D3-4C60-AB0D-736E09E580BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{71D373D8-A0D3-4C60-AB0D-736E09E580BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71D373D8-A0D3-4C60-AB0D-736E09E580BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71D373D8-A0D3-4C60-AB0D-736E09E580BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71D373D8-A0D3-4C60-AB0D-736E09E580BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2281754F-2142-44A0-9B51-42121F4DBFEC}
+	EndGlobalSection
+EndGlobal
